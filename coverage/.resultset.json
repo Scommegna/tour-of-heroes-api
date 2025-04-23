@@ -169,8 +169,124 @@
           1,
           null
         ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/spec/routing/heroes_routing_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          2,
+          null,
+          2,
+          2,
+          null,
+          2,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/app/controllers/api/heroes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/app/controllers/concerns/authenticable.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/routes.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1745430011
+    "timestamp": 1745432067
   }
 }
