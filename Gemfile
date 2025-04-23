@@ -12,6 +12,8 @@ gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 
+gem "rubocop", require: false
+
 gem "bootsnap", require: false
 
 # Deploy this application anywhere as a Docker container [https://kamal-deploy.org]
