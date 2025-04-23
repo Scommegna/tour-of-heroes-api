@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "rdbg",
+      "name": "Rails server (rdbg)",
+      "request": "launch",
+      "script": "bin/rails",
+      "args": ["server"],
+      "useBundler": true,
+      "showDebuggerOutput": true,
+      "cwd": "${workspaceRoot}"
+    },
+    {
+      "type": "rdbg",
+      "name": "Rails test (rdbg)",
+      "request": "launch",
+      "script": "bin/rails",
+      "args": ["test"],
+      "useBundler": true,
+      "showDebuggerOutput": true,
+      "cwd": "${workspaceRoot}"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/environments/test.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/initializers/cors.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/app/models/hero.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/lucasscommegna/Documents/rails-api-tutorial/tour-of-heroes-api/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1745427858
+  }
+}
